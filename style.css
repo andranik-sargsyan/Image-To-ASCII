@@ -1,0 +1,18 @@
+﻿#density-string {
+    width: 500px;
+}
+
+#wrapper {
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+#image-canvas {
+    border: solid 1px black;
+}
+
+#image-textarea {
+    width: 100%;
+    height: 800px;
+    white-space: nowrap;
+}
